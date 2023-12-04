@@ -35,6 +35,6 @@
 
 <image src="https://github.com/rugewit/L0-task/blob/main/github_images/1.png" alt="">
 
-<image src="https://github.com/rugewit/L0-task/blob/main/github_images/1.png" alt="">
+<image src="https://github.com/rugewit/L0-task/blob/main/github_images/2.png" alt="">
 
-<image src="https://github.com/rugewit/L0-task/blob/main/github_images/1.png" alt="">
+<image src="https://github.com/rugewit/L0-task/blob/main/github_images/3.png" alt="">
